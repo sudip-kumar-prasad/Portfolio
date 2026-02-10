@@ -2,6 +2,27 @@ import React from 'react'
 
 const projects = [
   {
+    title: 'VitalQ',
+    description: 'A full-stack health guidance platform built with the MERN stack (MongoDB, Express, React, Node.js) that provides rule-based symptom analysis, automated emergency alerts, and secure JWT-based health tracking.',
+    image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1200&auto=format&fit=crop',
+    live: '#',
+    code: '#'
+  },
+  {
+    title: 'CrickBoard',
+    description: 'React Native cricket team management app with authentication, player/match CRUD, real-time analytics dashboards, and tournament tracking. Features professional UI with data visualization, theme customization, and social feed functionality.',
+    image: 'https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=1200&auto=format&fit=crop',
+    live: '#',
+    code: '#'
+  },
+  {
+    title: 'Virtual Café System',
+    description: 'Responsive full-stack café management system with React frontend and Express.js/MongoDB backend, implementing secure user authentication, real-time order tracking, and menu management. Deployed using CI/CD pipelines on Vercel and Render.',
+    image: 'https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=1200&auto=format&fit=crop',
+    live: 'https://virtualcafesystem.netlify.app/',
+    code: 'https://github.com/sudip-kumar-prasad/Virtual-Cafe-'
+  },
+  {
     title: 'Hangman',
     description: 'Interactive word-guessing game using HTML, CSS, and JavaScript with responsive UI.',
     image: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop',
@@ -9,14 +30,7 @@ const projects = [
     code: 'https://github.com/sudip-kumar-prasad/Hangman-'
   },
   {
-    title: 'Virtual Café System',
-    description: 'Responsive React app to explore menu items and simulate café orders with smooth navigation.',
-    image: 'https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=1200&auto=format&fit=crop',
-    live: 'https://virtualcafesystem.netlify.app/',
-    code: 'https://github.com/sudip-kumar-prasad/Virtual-Cafe-'
-  },
-  {
-    title: "Beginner’s Guide to Running",
+    title: "Beginner's Guide to Running",
     description: 'Informational site covering basics, tips, and techniques with clean responsive design (HTML & CSS).',
     image: 'https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?q=80&w=1200&auto=format&fit=crop',
     code: 'https://github.com/sudip-kumar-prasad/Runningguide',

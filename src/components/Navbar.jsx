@@ -24,7 +24,7 @@ function Navbar() {
           <a href="#skills">Skills</a>
           <a href="#education">Education</a>
           <a href="#contact">Contact</a>
-          <a href="/resume.pdf" target="_blank" rel="noreferrer" className="btn small">Resume</a>
+          <a href="/Resume.pdf" target="_blank" rel="noreferrer" className="btn small">Resume</a>
           <button className="btn small" onClick={toggleTheme} aria-label="Toggle theme">
             {theme === 'dark' ? 'Light' : 'Dark'}
           </button>

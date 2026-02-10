@@ -4,17 +4,17 @@ const skills = [
   {
     title: 'Frontend',
     icon: '🎨',
-    items: ['HTML', 'CSS', 'JavaScript', 'React', 'React Native']
+    items: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'React Native']
   },
   {
     title: 'Backend',
     icon: '🧩',
-    items: ['Node.js', 'Express JS', 'MySQL', 'Prisma ORM']
+    items: ['Node.js', 'Express JS', 'MySQL', 'MongoDB', 'Prisma ORM']
   },
   {
     title: 'Data & Tools',
     icon: '🧠',
-    items: ['Python', 'Pandas', 'Figma', 'Excel', 'Data Structure', 'Generative AI']
+    items: ['Python', 'Pandas', 'Figma', 'Excel', 'Data Structure', 'Generative AI', 'OAuth 2.0', 'Git & Github']
   },
   {
     title: 'Soft Skills',

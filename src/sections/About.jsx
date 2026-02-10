@@ -7,12 +7,11 @@ function About() {
         <h2>About Me</h2>
         <div className="about-prose">
           <p>
-            Hi, I’m <strong>Sudip Kumar Prasad</strong>, a Computer Science and Engineering student specializing in
-            <strong> Artificial Intelligence and Machine Learning</strong> at the Newton School of Technology. I enjoy
-            building creative and impactful projects—from web applications to AI-driven solutions—that solve
-            real-world problems. With experience in <strong>Python</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and
-            <strong> React</strong>, I love experimenting with new technologies, organizing tech events through the
-            Robotics Club, and continuously improving my development and problem‑solving abilities.
+            Passionate and motivated Computer Science undergraduate specializing in <strong>Artificial Intelligence and Machine Learning</strong>,
+            with hands-on experience in <strong>full-stack web development</strong> (frontend and backend). Experienced in building responsive,
+            user-focused applications and <strong>RESTful APIs</strong> through academic and personal projects. Active member of the <strong>Robotics Club</strong> with
+            experience organizing technical events and competitions. Seeking <strong>Software Development / Full-Stack Intern</strong> opportunities
+            in web technologies and AI/ML.
           </p>
         </div>
       </div>
@@ -21,4 +20,3 @@ function About() {
 }
 
 export default About
-

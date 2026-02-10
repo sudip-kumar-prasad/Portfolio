@@ -11,9 +11,9 @@ function Home() {
           <div className="cta-group">
             <a href="#projects" className="btn primary">View Projects</a>
             <a href="#contact" className="btn">Contact Me</a>
-            <a href="/resume.pdf" target="_blank" rel="noreferrer" className="btn">Resume</a>
+            <a href="/Resume.pdf" target="_blank" rel="noreferrer" className="btn">Resume</a>
           </div>
-          <div className="cta-group" style={{justifyContent:'flex-start'}}>
+          <div className="cta-group" style={{ justifyContent: 'flex-start' }}>
             <a className="btn small" href="https://github.com/sudip-kumar-prasad" target="_blank" rel="noreferrer">GitHub</a>
             <a className="btn small" href="https://www.linkedin.com/in/sudip-kumar-prasad/" target="_blank" rel="noreferrer">LinkedIn</a>
             <a className="btn small" href="mailto:sudipkumarprasad2005@gmail.com">Email</a>
