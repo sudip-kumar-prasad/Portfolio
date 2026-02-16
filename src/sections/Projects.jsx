@@ -3,21 +3,21 @@ import React from 'react'
 const projects = [
   {
     title: 'VitalQ',
-    description: 'A full-stack health guidance platform built with the MERN stack (MongoDB, Express, React, Node.js) that provides rule-based symptom analysis, automated emergency alerts, and secure JWT-based health tracking.',
+    description: 'Designed a user-centric health guidance platform focusing on accessibility and clarity. Features an intuitive symptom analysis flow and automated emergency alerts, built with a clean, responsive MERN architecture.',
     image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1200&auto=format&fit=crop',
     live: 'https://health-guide-8kzu.vercel.app/',
     code: 'https://github.com/sudip-kumar-prasad/Health_Guide.git'
   },
   {
     title: 'CrickBoard',
-    description: 'React Native cricket team management app with authentication, player/match CRUD, real-time analytics dashboards, and tournament tracking. Features professional UI with data visualization, theme customization, and social feed functionality.',
+    description: 'Crafted a professional mobile UI for cricket team management. Prioritized data visualization and usability, featuring custom themes, real-time analytics dashboards, and smooth navigation interactions.',
     image: 'https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=1200&auto=format&fit=crop',
     live: 'https://drive.google.com/file/d/12SA5NBLes2z5MaWVtL4Sk2sHoDf47oQq/view',
     code: 'https://github.com/sudip-kumar-prasad/CrickBoard.git'
   },
   {
     title: 'Virtual Café System',
-    description: 'Responsive full-stack café management system with React frontend and Express.js/MongoDB backend, implementing secure user authentication, real-time order tracking, and menu management. Deployed using CI/CD pipelines on Vercel and Render.',
+    description: 'Designed a seamless coffee ordering experience with a focus on visual appeal and ease of use. Implemented smooth order flows, interactive menus, and real-time tracking to enhance customer satisfaction.',
     image: 'https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=1200&auto=format&fit=crop',
     live: 'https://virtual-cafe-amber.vercel.app/',
     code: 'https://github.com/sudip-kumar-prasad/Virtual-Cafe-.git'

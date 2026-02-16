@@ -2,24 +2,24 @@ import React from 'react'
 
 const skills = [
   {
-    title: 'Frontend',
+    title: 'Design & UX',
     icon: '🎨',
-    items: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'React Native']
+    items: ['Figma', 'Wireframing', 'Prototyping', 'User Research', 'Responsive Design', 'Accessibility (WCAG)', 'Gen AI']
   },
   {
-    title: 'Backend',
-    icon: '🧩',
-    items: ['Node.js', 'Express JS', 'MySQL', 'MongoDB', 'Prisma ORM']
+    title: 'Frontend Engineering',
+    icon: '💻',
+    items: ['React', 'React Native', 'TypeScript', 'JavaScript', 'HTML5 & CSS3', 'Tailwind CSS']
   },
   {
-    title: 'Data & Tools',
-    icon: '🧠',
-    items: ['Python', 'Pandas', 'Figma', 'Excel', 'Data Structure', 'Generative AI', 'OAuth 2.0', 'Git & Github']
+    title: 'Backend & Tools',
+    icon: '🛠️',
+    items: ['Node.js', 'Git & GitHub', 'MongoDB', 'Postman', 'Python', 'VS Code']
   },
   {
     title: 'Soft Skills',
     icon: '✨',
-    items: ['Teamwork', 'Creativity', 'Time management', 'Responsibility', 'Decision-making']
+    items: ['User Empathy', 'Collaboration', 'Problem Solving', 'Adaptability', 'Visual Communication']
   }
 ]
 
