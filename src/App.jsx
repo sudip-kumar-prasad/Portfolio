@@ -9,6 +9,8 @@ import Experience from './sections/Experience'
 import Education from './sections/Education'
 import Skills from './sections/Skills'
 import Certifications from './sections/Certifications'
+import CustomCursor from './components/CustomCursor'
+import Scene3D from './components/Scene3D'
 import './App.css'
 
 function App() {
@@ -26,8 +28,11 @@ function App() {
     elements.forEach((el) => observer.observe(el))
     return () => observer.disconnect()
   }, [])
+
   return (
     <div className="app">
+      <CustomCursor />
+      <Scene3D />
       <Navbar />
       <main>
         <Home />

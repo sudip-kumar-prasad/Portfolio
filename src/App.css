@@ -220,6 +220,7 @@ main {
   text-decoration: none;
   color: var(--text);
 }
+
 .btn.primary {
   background: linear-gradient(135deg, var(--primary), var(--primary-600));
   color: white;
