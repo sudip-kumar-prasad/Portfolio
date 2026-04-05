@@ -9,6 +9,13 @@ const projects = [
     code: 'https://github.com/sudip-kumar-prasad/Health_Guide.git'
   },
   {
+    title: 'ShopSmart',
+    description: 'Built a scalable full-stack MERN e-commerce platform with secure authentication using Google OAuth 2.0 and JWT. Implemented product management, live search, and real-time filtering for 500+ products.',
+    image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1200&auto=format&fit=crop',
+    live: '#',
+    code: 'https://github.com/sudip-kumar-prasad/ShopSmart'
+  },
+  {
     title: 'CrickBoard',
     description: 'Crafted a professional mobile UI for cricket team management. Prioritized data visualization and usability, featuring custom themes, real-time analytics dashboards, and smooth navigation interactions.',
     image: 'https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=1200&auto=format&fit=crop',
