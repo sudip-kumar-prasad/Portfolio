@@ -7,7 +7,7 @@ function Home() {
       <div className="container hero-content">
         <div>
           <h1>Hi, I'm Sudip.</h1>
-          <p className="subtitle">I build delightful, performant interfaces for the web.</p>
+          <p className="subtitle">Computer Science undergraduate specializing in AI/ML & Full-Stack Development.</p>
           <div className="cta-group">
             <a href="#projects" className="btn primary">View Projects</a>
             <a href="#contact" className="btn">Contact Me</a>

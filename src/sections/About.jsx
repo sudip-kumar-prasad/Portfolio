@@ -7,11 +7,11 @@ function About() {
         <h2>About Me</h2>
         <div className="about-prose">
           <p>
-            Passionate Computer Science undergraduate specializing in <strong>Human-Computer Interaction (HCI)</strong> and <strong>User Experience Design</strong>.
-            I bridge the gap between <strong>design and code</strong>, building accessible, pixel-perfect web applications that delight users.
-            Experienced in <strong>user-centric design</strong>, <strong>prototyping</strong>, and full-stack development through academic and personal projects.
-            Active member of the <strong>Robotics Club</strong> where I lead design initiatives for technical events.
-            Seeking <strong>UI/UX Design / Product Design Intern</strong> opportunities to craft meaningful digital experiences.
+            <strong>Computer Science undergraduate</strong> specializing in <strong>AI & ML</strong> with hands-on experience in <strong>full-stack web development</strong>. 
+            Proficient in building responsive applications and RESTful APIs that deliver seamless user experiences. 
+            I bring a strong problem-solving mindset, backed by consistent practice of data structures and algorithms, having solved over <strong>200+ LeetCode problems</strong>.
+            As an active member of the <strong>Robotics Club</strong>, I thrive in collaborative, technical environments. 
+            Currently seeking <strong>Software Development, Full-Stack, or AI/ML Internship</strong> opportunities to further refine my skills and contribute to impactful projects.
           </p>
         </div>
       </div>
