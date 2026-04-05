@@ -12,7 +12,7 @@ const projects = [
     title: 'ShopSmart',
     description: 'Built a scalable full-stack MERN e-commerce platform with secure authentication using Google OAuth 2.0 and JWT. Implemented product management, live search, and real-time filtering for 500+ products.',
     image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1200&auto=format&fit=crop',
-    live: '#',
+    live: 'https://shopsmart-sandy.vercel.app/',
     code: 'https://github.com/sudip-kumar-prasad/ShopSmart'
   },
   {
