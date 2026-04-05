@@ -15,12 +15,6 @@ const certifications = [
     link: '',
     image: '/certs/ai-for-everyone.png',
   },
-  {
-    name: 'Internship Completion Certificate',
-    issuer: 'Get Interview Confidence',
-    date: 'April 2025',
-    link: '',
-  },
 ]
 
 function Certifications() {
